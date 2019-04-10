@@ -6,6 +6,8 @@
 兴趣群
 - <a href="#football">足球群</a>
 - <a href="#py">Python监督&讨论</a>
+- <a href="#basket">篮球群</a>
+- <a href="#climb">骑行爬山群</a>
 
 老乡群
 - <a href="#hn">湖南老乡群</a>
@@ -25,12 +27,22 @@
 <div><img src="pictures/club_football_expire_20190417.jpeg" width="400xp" height="500px"></div>
 
 ### <a name="py">Python监督&讨论</a>  
-<div><img src="pictures/club_python_expire_20190417.jpeg" width="400xp" height="500px"></div>
+<div>
+	<img src="pictures/club_python_expire_20190417.jpeg" width="400xp" height="500px">
+	<img src="pictures/club_python2.jpeg" width="400xp" height="500px">
+
+</div>
+
+### <a name="basket">篮球群</a>  
+<div><img src="pictures/club_basketball.jpeg" width="400xp" height="500px"></div>
+
+### <a name="climb">骑行爬山群</a>  
+<div><img src="pictures/club_climb_mountain_and_cycle.jpeg" width="400xp" height="500px"></div>
 
 
 
 
-##老乡群
+## 老乡群
 
 ### <a name="hn">湖南老乡群</a>  
 <div><img src="pictures/hometown_hunan_expire_20190415.jpeg" width="400xp" height="500px"></div>
