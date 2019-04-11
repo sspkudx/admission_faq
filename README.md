@@ -51,7 +51,7 @@
 <div><img src="pictures/club_climb_mountain_and_cycle.jpeg" width="400xp" height="500px"></div>
 
 ### <a name="bb">烧烤群</a>  
-<div><img src="pictures/club_climb_babecue.jpeg" width="400xp" height="500px"></div>
+<div><img src="pictures/club_babecue.jpeg" width="400xp" height="500px"></div>
 
 ### <a name="survive">吃鸡群</a>  
 <div><img src="pictures/club_survive.jpeg" width="400xp" height="500px"></div>
