@@ -15,6 +15,9 @@
 复试通知书图片参见复试目录下面
 复试相关邮件流程参见复试目录下面
 
+### [各专业相关](各专业前来报道啦\)
+to do
+
 ### 政审调档的相关事宜  
 相关图片参见政审转档相关目录下面
 
@@ -22,4 +25,6 @@
 有个知乎问题，下面还有相关问答 https://www.zhihu.com/question/325490381
 
 # 感谢以下学长和同学
-TODO
+1. [2019级张三思同学](https://github.com/notfresh)
+2. [2018级CAT赵正阳学长](https://github.com/Allen-Bayern)
+3. and more...
