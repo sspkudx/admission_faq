@@ -1,7 +1,7 @@
-# README
+# 各个专业的介绍和FAQ
 
-This directory is for collecting FAQs of each direction.
-
-## Table of Contents
-
-1. [CAT (Computer Aided Translation)](CAT.md)
+- [CAT的介绍](CAT.md)
+   [CAT 的常见问题](CAT_FAQ.md)
+ 
+- 其他专业  
+TODO
